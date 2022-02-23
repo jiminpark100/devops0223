@@ -5,4 +5,4 @@
 - Git Commit 하기1
 
 ## 해야할일
-- Gitpush하기
+- Gitpush하기2
