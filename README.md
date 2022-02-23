@@ -5,4 +5,5 @@
 - Git Commit 하기1
 
 ## 해야할일
-- Gitpush하기23
+- Git push하기
+- 젠킨스 얼른하기
