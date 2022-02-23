@@ -3,3 +3,6 @@
 
 ## 해야할일 
 - Git Commit 하기1
+
+## 해야할일
+- Gitpush하기
